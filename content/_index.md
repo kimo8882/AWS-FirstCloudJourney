@@ -8,11 +8,11 @@ chapter: false
 
 ### Student Information:
 
-&emsp; **Full Name:** Nguyen Doan Nhat Dang
+&emsp; **Full Name:** Nguyen Quoc Lap
 
-&emsp; **Phone Number:** (84)0972696902
+&emsp; **Phone Number:** (84)0766521136
 
-&emsp; **Email:** nhatdang23092006@gmail.com
+&emsp; **Email:** nquoclap2006@gmail.com
 
 &emsp; **University:** FPT University HCM
 

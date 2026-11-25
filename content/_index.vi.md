@@ -8,23 +8,23 @@ chapter: false
 
 ### Thông tin sinh viên:
 
-&emsp; **Họ và tên:** Võ Nhật Minh
+&emsp; **Họ và tên:** Nguyễn Quốc Lập
 
-&emsp; **Số điện thoại:** (86)0906304988
+&emsp; **Số điện thoại:** (84)0766521136
 
-&emsp; **Email:** nhatminhvo2311@gmail.com@gmail.com
+&emsp; **Email:** nquoclap2006@gmail.com
 
 &emsp; **Trường:** Đại học FPT TP.HCM
 
 &emsp; **Ngành:** Kỹ Thuật Phần Mềm
 
-&emsp; **Lớp:** AWS092025
+&emsp; **Lớp:** AWS092026
 
 &emsp; **Công ty thực tập:** Công ty TNHH Amazon Web Services Vietnam
 
 &emsp; **Vị trí thực tập:** Thực tập sinh FCJ Cloud
 
-&emsp; **Thời gian thực tập:** Từ ngày 08/09/2025 đến ngày 12/12/2025
+&emsp; **Thời gian thực tập:** Từ ngày 08/09/2026 đến ngày 12/12/2026
 
 ![Ảnh đại diện của tôi](/images/avatar.jpg)
 

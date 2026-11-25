@@ -19,14 +19,14 @@ pre: " <b> 1. </b> "
 
 **Tuần 7:** [Ứng dụng web sẵn sàng cao và tổng kết workshop](1.7-week7/)
 
-**Tuần 8:** [Chưa cập nhật](1.8-week8/)
+**Tuần 8:** [Thiết kế UI/UX và xây dựng giao diện trên Figma](1.8-week8/)
 
-**Tuần 9:** [Chưa cập nhật](1.9-week9/)
+**Tuần 9:** [Phát triển trang chủ và tích hợp API](1.9-week9/)
 
-**Tuần 10:** [Chưa cập nhật](1.10-week10/)
+**Tuần 10:** [Trang chi tiết sản phẩm, chức năng khách hàng và tích hợp E-commerce](1.10-week10/)
 
-**Tuần 11:** [Chưa cập nhật](1.11-week11/)
+**Tuần 11:** [Quản lý E-commerce và tối ưu hệ thống](1.11-week11/)
 
-**Tuần 12:** [Chưa cập nhật](1.12-week12/)
+**Tuần 12:** [Rà soát dự án và hoàn thiện tài liệu](1.12-week12/)
 
 **Tuần 13:** [Chưa cập nhật](1.13-week13/)

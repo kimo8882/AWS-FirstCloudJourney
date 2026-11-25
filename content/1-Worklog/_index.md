@@ -19,14 +19,14 @@ pre: " <b> 1. </b> "
 
 **Week 7:** [Highly available web application and workshop recap](1.7-week7/)
 
-**Week 8:** [Pending update](1.8-week8/)
+**Week 8:** [UI/UX Design and Figma Prototyping](1.8-week8/)
 
-**Week 9:** [Pending update](1.9-week9/)
+**Week 9:** [Homepage Development and API Integration](1.9-week9/)
 
-**Week 10:** [Pending update](1.10-week10/)
+**Week 10:** [Product Details, Customer Features and E-commerce Integration](1.10-week10/)
 
-**Week 11:** [Pending update](1.11-week11/)
+**Week 11:** [E-commerce Management and System Optimization](1.11-week11/)
 
-**Week 12:** [Pending update](1.12-week12/)
+**Week 12:** [Project Review and Documentation](1.12-week12/)
 
 **Week 13:** [Pending update](1.13-week13/)
